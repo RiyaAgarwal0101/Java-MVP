@@ -95,7 +95,6 @@ Go to Postman
 ---
 
 ## Output
-Inline-style:
 ![alt text](https://github.com/RiyaAgarwal0101/Java-MVP/blob/main/POST.jpg "POST request")
-![alt text](https://github.com/RiyaAgarwal0101/Java-MVP/blob/main/GET.jpg"GET request")
-![alt text](https://github.com/RiyaAgarwal0101/Java-MVP/blob/main/MongoDB.jpg"Checking MongoDB")
+![alt text](https://github.com/RiyaAgarwal0101/Java-MVP/blob/main/GET.jpg "GET request")
+![alt text](https://github.com/RiyaAgarwal0101/Java-MVP/blob/main/MongoDB.jpg "Checking MongoDB")
